@@ -46,3 +46,9 @@
 ### Софт
 
 * Diagrams.net: [офлайн](https://github.com/jgraph/drawio-desktop/releases) и [онлайн](https://app.diagrams.net/) редакторы
+
+
+### Вкусности
+
+* Univariate Distributions [Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
+* [ProbOnto](https://sites.google.com/site/probonto/)
