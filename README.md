@@ -73,3 +73,8 @@
 * Univariate Distributions [Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
 * [ProbOnto](https://sites.google.com/site/probonto/)
 * Схема [математического анализа](https://vk.com/wall-186208863_5173) от ёжика в матане
+
+
+### Лицензия
+
+Эти карты распространяются под двумя лицензиями: [unlicense](https://github.com/bdemeshev/probability_map/blob/main/LICENSE.unlicense) и [wtfl](https://github.com/bdemeshev/probability_map/blob/main/LICENSE.wtfl). Выбирай любую!
